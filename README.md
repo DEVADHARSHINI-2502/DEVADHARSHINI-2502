@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**DEVADHARSHINI-2502/DEVADHARSHINI-2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi, I'm Devadharshini
 
-Here are some ideas to get you started:
+BS–MS graduate from IISER Pune with a background in Mathematics and Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+## Skills
+- Python (Pandas, NumPy)
+- SQL
+- Excel
+- Power BI
+- Data Visualization
+
+## Interests
+- Financial Data Analysis
+- Business Intelligence
+- Data Visualization
+
+## Projects
+- Sector Rotation Strategy Analysis (2018–2025)
+- Financial Market Data Analysis
+- Customer Behaviour Analysis
+
+GitHub Portfolio:
+https://github.com/DEVADHARSHINI-2502
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
