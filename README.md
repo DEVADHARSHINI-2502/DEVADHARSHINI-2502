@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<!--# Hi, I'm Devadharshini
+# Hi, I'm Devadharshini
 
 BS–MS graduate from IISER Pune with a background in Mathematics and Data Science.
 
